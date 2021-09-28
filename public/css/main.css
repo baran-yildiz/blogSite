@@ -1,0 +1,86 @@
+body {
+  background-color: #E0FFFA;
+}
+
+h1 {
+  color: red;
+  text-align: left;
+  margin-left: 5%;
+  float: left;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+input {
+  width: 100%; 
+}
+
+.header {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  height: 100px;
+}
+
+.login {
+  width: 50%;
+  float: right;
+}
+
+.loginParts {
+  float: left;
+  width: 30%;
+  margin: 5px;
+}
+
+
+
+.mainTitle {
+  width: 45%;
+  float: left;
+  margin: 10px;
+}
+
+.blogPagesBorder {
+  border: 2px solid silver;
+  border-radius:5px;
+  width: 90%;
+  margin-left: 5%;
+  margin-left: 5%; 
+  margin-top: 10px;
+}
+
+.blogPages {
+  margin-top: 10px;
+  height: auto;
+  border-bottom: 4px dotted silver;
+}
+
+.categories {
+  border: 2px solid silver;
+  border-radius:5px;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  height:50px;
+}
+
+.subCategories {
+  width: 18%;
+  height:15px; 
+  float: left;
+  margin: 5px;
+}
+
+a:link, a:visited {
+  color: (internal value);
+  text-decoration: underline;
+  cursor: auto;
+}
+
+a:link:active, a:visited:active {
+  color: (internal value);
+}
